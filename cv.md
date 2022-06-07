@@ -19,13 +19,16 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 --- 
 
 
- ### Skills
+ ## Skills
 
  - HTML
  - CSS
  - JS basics
  - SQL
+ - VS code
+ - Figma
  - PHP basics
+
 
  
 ---
@@ -35,3 +38,13 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
     function multiply(a, b){
     return a * b
     }
+
+
+
+### Education: 
+- University: Astana International University
+---
+- #### Courses: 
+- Stepik (SQL)
+- Udemy: WEB-programming
+
