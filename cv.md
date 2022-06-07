@@ -7,7 +7,7 @@ Location: Astana, Kazakhstan
 Phone: +7 708 628 55 68 
 Email: <baurzhan.bulatov01@gmail.com>   
 GitHub: [Bbulatovv](https://github.com/Bbulatov)  
-Telegram: @
+Telegram: @Bbulatov
 
 ---
 
@@ -16,4 +16,13 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 
 > keep learning
 
-##
+--- 
+
+
+> #### Skills
+>
+> - HTML
+> - CSS
+> - JS basics
+> - SQL
+> - PHP basics
