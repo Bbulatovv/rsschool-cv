@@ -35,7 +35,7 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 
 ## Code Example:
     function multiply(a, b){
-    return a * b
+        return a * b
     }
 
 ---
