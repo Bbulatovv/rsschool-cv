@@ -18,7 +18,7 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 
 --- 
 
-## Skills
+## Skills:
 
  - HTML
  - CSS
@@ -41,7 +41,7 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 ---
 
 ## Education: 
- - University: Astana International University
+- University: Astana International University
 --
 ### Courses: 
 - Stepik (SQL)
