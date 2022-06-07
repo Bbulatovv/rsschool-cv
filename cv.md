@@ -34,17 +34,24 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 ---
 
 
-### Code Example:
+## Code Example:
     function multiply(a, b){
     return a * b
     }
 
+---
 
-
-### Education: 
+## Education: 
 - University: Astana International University
 ---
 - #### Courses: 
 - Stepik (SQL)
 - Udemy: WEB-programming
 
+---
+
+## Languages: 
+- Russian ( Native speaker)
+- Kazakh ( Native speaker)
+- English ( Intermediate b1 )
+- Turkish ( Elementary )
