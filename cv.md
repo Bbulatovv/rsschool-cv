@@ -41,11 +41,10 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 ---
 
 ## Education: 
-- University: Astana International University
---
-### Courses: 
-- Stepik (SQL)
-- Udemy: WEB-programming
+- Astana International University
+- Courses:
+    - Stepik (SQL)
+    - Udemy Web-Programming (HTML, CSS, JS)
 
 ---
 
