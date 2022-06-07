@@ -11,7 +11,7 @@ Telegram: @Bbulatov
 
 ---
 
-## About Me
+## About Me:
 My main goal is to become a full-stack developer. Earlier I tried to master basics skills in front-end and back-end at the same. But now I understand, that you shouldn't take on all the basics at the same time and need to master all the skills step by step. That is why I hope to improve my front-end skills. 
 
 > keep learning
