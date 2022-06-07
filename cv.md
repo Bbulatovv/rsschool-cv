@@ -19,10 +19,19 @@ My main goal is to become a full-stack developer. Earlier I tried to master basi
 --- 
 
 
-> #### Skills
->
-> - HTML
-> - CSS
-> - JS basics
-> - SQL
-> - PHP basics
+ ### Skills
+
+ - HTML
+ - CSS
+ - JS basics
+ - SQL
+ - PHP basics
+
+ 
+---
+
+
+### Code Example:
+    function multiply(a, b){
+    return a * b
+    }
