@@ -4,64 +4,146 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baurzhan</title>
+    <title>cv</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header class="header">
-        <nav class="nav">
-            <img src="img/avatar.jpg" alt="" class="nav-avatar">
-            <ul class="nav-menu">
-                <li class="menu__items"><a href="">Contacs</a></li>
-                <li class="menu__items"><a href="">About me</a></li>
-                <li class="menu__items"><a href="">Skills</a></li>
-                <li class="menu__items"><a href="">Education</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <nav class="nav">
+                <img src="assets/img/avatar.jpg" alt="" class="nav-avatar">
+                <h1 class="nav-header">Bulatov <br> Baurzhan</h1>
+                <div class="nav-descr">
+                    <h3 class="nav-sub-header">Front-end Developer:</h3>
+                    <ul class="nav-menu">
+                        <li class="menu__items"><a href="#contacts" class="nav-link">Contacs</a></li>
+                        <li class="menu__items"><a href="#about" class="nav-link">About me</a></li>
+                        <li class="menu__items"><a href="#skills" class="nav-link">Skills</a></li>
+                        <li class="menu__items"><a href="#code" class="nav-link">Code Example</a></li>
+                        <li class="menu__items"><a href="#education" class="nav-link">Education</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
     </header>
-    <section class="contacts">
-        <h2 class="contacts_title">
-            Contacts
-        </h2>
-        <ul>
-            <li>87086285568</li>
-        </ul>
-    </section>
+    <main class="main">
+        <div class="container">
+            <div class="short-information">
+                <section class="contacts">
+                    <h2 id="contacts" class="contacts_title">
+                        Contacts
+                    </h2>
+                    <div class="highlight"></div>
+                    <ul class="contacts-menu">
+                        <li class="contacts-items">Location: Kazakhstan, Astana</li>
+                        <li class="contacts-items">Phone: +7-708-628-55-68</li>
+                        <li class="contacts-items">Email: <a href="mailto:baurzhan.bulatov01@gmail.com" class="contact-link">baurzhan.bulatov01@gmail.com</a></li>
+                        <li class="contacts-items">GitHub: <a href="https://github.com/Bbulatovv" class="contact-link">Bbulatovv</a></li>
+                        <li class="contacts-items">Telegram: @Bbulatovv</li>
+                    </ul>
+                </section>
 
-    <section class="about">
-        <h2 class="about_title">
-            About me
-        </h2>
-    </section>
+                <section class="skills">
+                    <h2 id="skills" class="skills_title">
+                        Skills
+                    </h2>
+                    <div class="highlight2"></div>
+                    <ul class="skills-menu">
+                        <li class="skills-items">HTML (80%)</li>
+                        <li class="skills-items">CSS (70%)</li>
+                        <li class="skills-items">JS Basics (15%)</li>
+                        <li class="skills-items">SQL (40%)</li>
+                        <li class="skills-items">VS CODE (50%)</li>
+                        <li class="skills-items">Figma (30%)</li>
+                        <li class="skills-items">PHP Basics (25%)</li>
+                    </ul>
+                </section>
+            </div>
 
-    <section class="Skills">
-        <h2 class="skills_title">
-            Skills
-        </h2>
-    </section>
 
-    <section class="Code-example">
-        <h2 class="code-example_title">
-            Code Example
-        </h2>
-    </section>
+            <section class="about">
+                <h2 id="about" class="about_title">
+                    About me
+                </h2>
+                <div class="highlight"></div>
+                <p class="about-descr">My main goal is to become a full-stack developer. Earlier I tried to master basics skills in front-end and back-end at the same time. But now I understand, that you shouldn’t take on all the basics at the same time and need to master all the skills step by step. That is why I hope to improve my front-end skills.</p>
+            </section>
 
-    <section class="Education">
-        <h2 class="education_title">
-            Education
-        </h2>
-    </section>
 
-    <section class="lang">
-        <h2 class="lang_title">
-            Languages
-        </h2>
-    </section>
+            <section class="code-example">
+                <h2 id="code" class="code-example_title">
+                    Code Example
+                </h2>
+                <div class="highlight"></div>
+                <p class="code-ex">function multiply(a, b){<br>
+                    return a * b<br>
+                }</p>
+            </section>
 
+            <section class="education">
+                <h2 id="education" class="education_title">
+                    Education
+                </h2>
+                <div class="highlight"></div>
+                <div class="uni">
+                    <div class="uni-name">
+                        Astana International University
+                    </div>
+                    <div class="uni-divider">
+
+                    </div>
+                    <div class="uni-descr">
+                        <p class="uni-descr2">
+                            I have finished 3-rd course of my university. My major is Computer Technology And Software. I'm really into it, but I feel that my knowledge is poor, that is why I want to complete RSSchool course: To improve my current knowledge and get new.
+                        </p>
+                    </div>
+                </div>
+                <div class="courses">
+                    <h2 class="courses-subheader">Courses:</h2>
+                    <div class="stepik">
+                        <h3 class="stepik-subname"> <a href="https://stepik.org/course/63054/syllabus" class="stepik-name">Stepik</a>  </h3>
+                        <div class="courses-divider">
+
+                        </div>
+                        <div class="stepik-descr">
+                            I have finished no-cost SQL course.
+                        </div>
+                    </div>
+                    <div class="udemy">
+                        <h3 class="udemy-subname"><a href="https://www.udemy.com/course/webdeveloper/" class="udemy-name">Udemy</a></h3>
+                        <div class="courses-divider">
+
+                        </div>
+                        <div class="udemy-descr">
+                            It's my uncompleted course.
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="lang">
+                <h2 class="lang_title">
+                    Languages
+                </h2>
+                <div class="highlight"></div>
+                <ul class="lang-menu">
+                    <li class="lang-items"><a href="" class="lang-items-descr">Russian: </a> Native Speaker</li>
+                    <li class="lang-items"><a href="" class="lang-items-descr">Kazakh: </a> Native Speaker</li>
+                    <li class="lang-items"><a href="" class="lang-items-descr">English: </a> Intermediate B1 (IELTS - 6.0)</li>
+                    <li class="lang-items"><a href="" class="lang-items-descr">Turkish: </a> A1</li>
+                </ul>
+            </section>
+        </div>
+    </main>
     <footer class="footer">
-        <h2>
-            FOOTER
-        </h2>
+        <div class="container">
+            <div class="main-link">
+                <a href="https://github.com/Bbulatovv" class="footer-link">GitHub</a>
+            </div>
+        </div>
     </footer>
 </body>
 </html>
